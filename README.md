@@ -1,0 +1,2 @@
+# for_sy
+nihilism
