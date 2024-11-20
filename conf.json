@@ -1,0 +1,8 @@
+{
+    "ignore_students" : [1, 2],
+    "listening_num" : 20,
+    "reading_num" : 20,
+    "fill_blank_num" : 15,
+    "grammer_num" : 10,
+    "spell_num" : 25
+}

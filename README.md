@@ -1,2 +1,1 @@
-# for_sy
-nihilism
+## 待补充
